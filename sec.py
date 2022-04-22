@@ -1,1 +1,1 @@
-print("Halal")
+print("Haalal")
